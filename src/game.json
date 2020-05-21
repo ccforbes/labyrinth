@@ -1,0 +1,118 @@
+{
+    "areas": [
+        {
+            "name": "BATHROOM",
+            "description": "You are in the bathroom. There is a garage remote on the floor of the bathtub.",
+            "coordinates": [0, 0],
+            "hazard": {
+                "name": "Locked Door",
+                "description": "The door is locked.",
+                "key": {
+                    "name": "Bathroom Key",
+                    "description": "This is a key to the bathroom.",
+                    "key": true
+                }
+            },
+            "item": {
+                "name": "Garage Remote",
+                "description": "This is a remote to open the garage. ",
+                "key": true
+            }
+        },
+        {
+            "name": "BEDROOM",
+            "description": "You are in the bedroom. There is an open door to the south and a door to the west. ",
+            "coordinates": [0, 1]
+        },
+        {
+            "name": "LAUNDRY ROOM",
+            "description": "You are in the laundry room. There is a door to the north, a door to the east, and a door to the south. ",
+            "coordinates": [1, 0],
+            "item": {
+                "name": "Jewelry",
+                "description": "The item is jewelry. It is very valuable",
+                "treasure": true
+            }
+        },
+        {
+            "name": "HALLWAY",
+            "description": "You are in the hallway. There is a door to the west, a door to the south, and a door to the north. ",
+            "coordinates": [1, 1]
+        },
+        {
+            "name": "KITCHEN",
+            "description": "You are in the kitchen. There is a door to the north and a door to the east. ",
+            "coordinates": [2, 0],
+            "item": {
+                "name": "Knife",
+                "description": "It looks like it could kill something (or someone). ",
+                "weapon": true
+            }
+        },
+        {
+            "name": "LIVING ROOM",
+            "description": "You are in the living room. There is a door to the east, a door to the west, and a door to the north. ",
+            "coordinates": [2, 1],
+            "item": {
+                "name": "Bathroom Key",
+                "description": "This is a key to the bathroom. ",
+                "key": true
+            }
+        },
+        {
+            "name": "GARAGE",
+            "description": "You are in the garage. There is a door to the west. This is an exit out of the house. ",
+            "coordinates": [2, 2],
+            "hazard": {
+                "name": "Garage Door",
+                "description": "The garage door is closed. You need to find something to open it. ",
+                "key": {
+                    "name": "Garage Remote",
+                    "description": "This is a remote to open the garage. ",
+                    "key": true
+                }
+            }
+        }
+    ],
+    "startArea": {
+        "name": "BEDROOM",
+        "description": "You are in the bedroom. There is an door to the south, and a door to the west. ",
+        "coordinates": [0, 1]
+    },
+    "endArea": {
+        "name": "GARAGE",
+        "description": "You are in the garage. This is an exit out of the house via the garage door. ",
+        "coordinates": [2, 2],
+        "hazard": {
+            "name": "Garage Door",
+            "description": "The garage door is closed. You need to find something to open it. ",
+            "key": {
+                "name": "Garage Remote",
+                "description": "This is a remote to open the garage. ",
+                "key": true
+            }
+        }
+    },
+    "monster": {
+        "name": "Old Drunk Homeless Man",
+        "startLocation": {
+            "name": "GARAGE",
+            "description": "You are in the garage. There is a door to the west. This is an exit out of the house. ",
+            "coordinates": [2, 2],
+            "hazard": {
+                "name": "Garage Door",
+                "description": "The garage door is closed. You need to find something to open it. ",
+                "key": {
+                    "name": "Garage Remote",
+                    "description": "This is a remote to open the garage. ",
+                    "key": true
+                }
+            }
+        }
+    },
+    "treasure": {
+        "name": "Jewelry",
+        "description": "The item is jewelry. It is very valuable ",
+        "treasure": true
+    }
+}

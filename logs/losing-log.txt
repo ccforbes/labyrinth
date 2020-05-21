@@ -1,0 +1,155 @@
+As a child of one of the owner of a very well known Jewelry Store, many know you as a very wealthy person with many valuable products. You hear a noise... someone broke into your house! You need to escape before they kill you! You also need to escape before with anything valuable so they don't steal it!
+---------
+BEDROOM
+You are in the bedroom. There is an open door to the south and a door to the west.
+---------
+> go south
+---------
+HALLWAY
+You are in the hallway. There is a door to the west, a door to the south, and a door to the north.
+---------
+What would you like to do?
+> go west
+---------
+LAUNDRY ROOM
+You are in the laundry room. There is a door to the north, a door to the east, and a door to the south.
+There is a JEWELRY in the LAUNDRY ROOM. This seems very valuable. Wouldn't want anyone stealing this!
+---------
+What would you like to do?
+> go south
+---------
+KITCHEN
+You are in the kitchen. There is a door to the north and a door to the east.
+There is a KNIFE in the KITCHEN. It looks like it could kill something (or someone).
+---------
+What would you like to do?
+> take knife
+---------
+KITCHEN
+You are in the kitchen. There is a door to the north and a door to the east.
+---------
+What would you like to do?
+> go east
+---------
+LIVING ROOM
+There is a OLD DRUNK HOMELESS MAN in the area
+---------
+What would you like to do?
+> use knife
+You killed the OLD DRUNK HOMELESS MAN with the KNIFE!
+---------
+LIVING ROOM
+You are in the living room. There is a door to the east, a door to the west, and a door to the north.
+There is a BATHROOM KEY in the LIVING ROOM. This is a key to the bathroom.
+---------
+Monster's Location: LIVING ROOM
+What would you like to do?
+> take bathroom key
+---------
+LIVING ROOM
+You are in the living room. There is a door to the east, a door to the west, and a door to the north.
+---------
+Monster's Location: LIVING ROOM
+What would you like to do?
+> go north
+---------
+HALLWAY
+You are in the hallway. There is a door to the west, a door to the south, and a door to the north.
+---------
+Monster's Location: LIVING ROOM
+What would you like to do?
+> go west
+---------
+LAUNDRY ROOM
+You are in the laundry room. There is a door to the north, a door to the east, and a door to the south.
+There is a JEWELRY in the LAUNDRY ROOM. This seems very valuable. Wouldn't want anyone stealing this!
+---------
+Monster's Location: LIVING ROOM
+What would you like to do? 
+> take jewelry
+---------
+LAUNDRY ROOM
+You are in the laundry room. There is a door to the north, a door to the east, and a door to the south.
+---------
+Monster's Location: LIVING ROOM
+What would you like to do?
+> go north
+---------
+BATHROOM
+The door is locked.
+---------
+Monster's Location: LIVING ROOM
+What would you like to do?
+> use bathroom key
+---------
+BATHROOM
+You are in the bathroom. There is a door to the east.
+There is a GARAGE REMOTE in the BATHROOM. This is a remote to open the garage.
+---------
+Monster's Location: LIVING ROOM
+What would you like to do?
+> take garage remote
+---------
+BATHROOM
+You are in the bathroom. There is a door to the east.
+---------
+Monster's Location: LIVING ROOM
+What would you like to do?
+> go east
+---------
+BEDROOM
+You are in the bedroom. There is an open door to the south and a door to the west.
+---------
+Monster's Location: LIVING ROOM
+What would you like to do?
+> go south
+---------
+HALLWAY
+You are in the hallway. There is a door to the west, a door to the south, and a door to the north.
+---------
+Monster's Location: LIVING ROOM
+What would you like to do?
+> go south
+---------
+LIVING ROOM
+As a child of one of the owner of a very well known Jewelry Store, many know you as a very wealthy person with many valuable products. You hear a noise... someone broke into your house! You need to escape before they kill you! You also need to escape before with anything valuable so they don't steal it!
+---------
+BEDROOM
+You are in the bedroom. There is an open door to the south and a door to the west.
+---------
+> go south
+---------
+HALLWAY
+You are in the hallway. There is a door to the west, a door to the south, and a door to the north.
+---------
+Monster's Location: LIVING ROOM
+What would you like to do?
+> go south
+---------
+LIVING ROOM
+You are in the living room. There is a door to the east, a door to the west, and a door to the north.
+There is a BATHROOM KEY in the LIVING ROOM. This is a key to the bathroom.
+---------
+Monster's Location: HALLWAY
+What would you like to do?
+> go east
+---------
+GARAGE
+The garage door is closed. You need to find something to open it.
+---------
+What would you like to do?
+> take knife
+You can't access anything because of the GARAGE DOOR
+---------
+GARAGE
+The garage door is closed. You need to find something to open it.
+---------
+What would you like to do?
+> go west
+---------
+LIVING ROOM
+There is a OLD DRUNK HOMELESS MAN in the area
+---------
+What would you like to do?
+> go west
+You tried to escape but the OLD DRUNK HOMELESS MAN killed you!
